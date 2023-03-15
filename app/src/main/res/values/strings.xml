@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExerciseApp</string>
+
+    <!-- start screen -->
+    <string name="tv1">7 MINUTE</string>
+    <string name="tv2">WORKOUT</string>
+    <string name="tv3">APP</string>
+    <string name="start">START</string>
+    <string name="bmi">BMI</string>
+    <string name="history">HISTORY</string>
+</resources>
