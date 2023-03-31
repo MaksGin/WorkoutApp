@@ -31,7 +31,7 @@ Wybierz urządzenie docelowe i kliknij przycisk "OK".
 Aplikacja zostanie zbudowana i zainstalowana na wybranym urządzeniu.
 
 BMI kalkulator:
-![Bmiscreen](https://user-images.githubusercontent.com/26302413/229087605-82f356b8-9604-4394-ba27-b556fd15293e.png)
+![Bmiscreen](https://user-images.githubusercontent.com/26302413/229087605-82f356b8-9604-4394-ba27-b556fd15293e.png =400x600)
 
 
 Historia treningów:
