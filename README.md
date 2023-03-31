@@ -31,20 +31,23 @@ Wybierz urządzenie docelowe i kliknij przycisk "OK".
 Aplikacja zostanie zbudowana i zainstalowana na wybranym urządzeniu.
 
 BMI kalkulator:
-![Bmiscreen](https://user-images.githubusercontent.com/26302413/229087605-82f356b8-9604-4394-ba27-b556fd15293e.png =400x600)
 
+<img src="https://user-images.githubusercontent.com/26302413/229087605-82f356b8-9604-4394-ba27-b556fd15293e.png" width="300" height="600"/>
 
 Historia treningów:
-![Historyscreen](https://user-images.githubusercontent.com/26302413/229087621-940874d3-3573-43b0-9c7b-0b4ec2d9b82c.png)
+
+<img src="https://user-images.githubusercontent.com/26302413/229087621-940874d3-3573-43b0-9c7b-0b4ec2d9b82c.png" width="300" height="600"/>
 
 
 Przed ćwiczeniem:
-![Exercisereadyscreen](https://user-images.githubusercontent.com/26302413/229087631-29182142-fdd4-4c1b-bee9-4e5e4a261cee.png)
 
+<img src="https://user-images.githubusercontent.com/26302413/229087631-29182142-fdd4-4c1b-bee9-4e5e4a261cee.png" width="300" height="600"/>
 
 Wygląd ekranu podczas ćwiczeń:
-![exScreen](https://user-images.githubusercontent.com/26302413/229087639-91eb2be6-83fa-4e31-b718-2d0ce3494605.png)
 
+<img src="https://user-images.githubusercontent.com/26302413/229087639-91eb2be6-83fa-4e31-b718-2d0ce3494605.png" width="300" height="600"/>
 
 Po wykonaniu wszystkich ćwiczeń:
-![postWorkoutScreen](https://user-images.githubusercontent.com/26302413/229087646-2b18211c-d39b-4623-a6bb-f8b2ebe58290.png)
+
+<img src="https://user-images.githubusercontent.com/26302413/229087646-2b18211c-d39b-4623-a6bb-f8b2ebe58290.png" width="300" height="600"/>
+
